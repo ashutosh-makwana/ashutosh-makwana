@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **the development of innovative Android applications using Kotlin, Jetpack, and Clean Architecture.**
 
-- 🌱 I’m currently delving deep into **Jetpack Compose and MVI architectural patterns.**
+🌱 I’m currently delving deep into **Jetpack Compose, MVI architectural patterns, and playing with LangChain and open-source LLMs in AI/ML**.
 
 - 👯 I’m looking to collaborate on **projects that push the boundaries of mobile app experiences.**
 
